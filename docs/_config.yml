@@ -1,0 +1,6 @@
+title: "bybit-ws Documentation"
+description: "Real-time Bybit V5 market data ingestion and analytics library"
+theme: jekyll-theme-slate
+markdown: kramdown
+baseurl: "/BytSockeTs"
+url: "https://zhulnert-lang.github.io"
