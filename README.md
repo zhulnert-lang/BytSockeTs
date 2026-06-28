@@ -22,7 +22,8 @@
   <a href="#quick-start">Quick Start</a> •
   <a href="#api-reference">API Reference</a> •
   <a href="#architecture">Architecture</a> •
-  <a href="#deployment">Deployment</a>
+  <a href="#deployment">Deployment</a> •
+  <a href="docs/">Documentation</a>
 </p>
 
 ---
